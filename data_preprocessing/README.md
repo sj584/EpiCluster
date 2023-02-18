@@ -1,8 +1,9 @@
 This example is data preprocessing from Epitope3D external test set "epitope3d_dataset_45_Blind_Test.csv"
 
+=============================
 Tutorials 
-
-Prerequisits: csv file of PDB ID in Data_processing directory (w/wo epitope labels)
+=============================
+Prerequisits: csv file of PDB ID in Data_processing directory 
 
 1. collect_pdb.py --> example_pdb/*.pdb
 
