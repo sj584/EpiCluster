@@ -21,15 +21,15 @@ scipy 1.7.1<br />
 
 EpiCluster dataset 
 =======================
-1. Initial training set and independent set
+1. Initial training set and independent set<br />
 "epitope3D: a machine learning method for conformational B-cell epitope prediction"
 http://biosig.unimelb.edu.au/epitope3d/data
 
-2. Benchmark set 1
+2. Benchmark set 1<br />
 "Critical review of conformational B-cell epitope prediction methods"
 https://github.com/3BioCompBio/BCellEpitope
 
-3. Benchmark set 2 (supplementary)
+3. Benchmark set 2 (supplementary)<br />
 "Positive-unlabeled learning for the prediction of conformational B-cell epitopes"
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S18-S12#additional-information
 
