@@ -16,9 +16,7 @@ Analyse as Bound, Table Output
 
 PSI-BLAST. psi_blast -query example.fasta -db swissprot -num_iterations 3 -out_ascii_pssm example.pssm 
 
-After this process, you'll get 
-
-example_psaia/*.tbl, example_pssm/*.pssm
+After this process, you'll get example_psaia/*.tbl, example_pssm/*.pssm
 
 4. generate_graphs.py --> example_graphs_5A.pkl
 
