@@ -5,6 +5,9 @@ Tutorials
 =============================
 Prerequisits: csv file of PDB ID in Data_processing directory 
 
+.csv file comes with column names: PDB, Epitopes
+Epitopes should be {Chain:Amino_acid(3letters):residue_number}", "{Chain:Amino_acid(3letters):residue_number}
+
 1. collect_pdb.py --> example_pdb/*.pdb
 
 2. collect_fasta.py --> example_fasta/*.fasta
