@@ -1,7 +1,6 @@
 # EpiCluster
 
-EpiCluster
-=======================
+
 EpiCluster is State-of-the-art model in conformational B cell epitope.
 EpiCluster leverages structural features, evolutionary features, and clustering feature
 of conformational B cell epitopes
