@@ -8,15 +8,15 @@ of conformational B cell epitopes
 
 Dependencies
 =======================
-python 3.8.12
-pytorch 1.10.1
-torch-geometric 2.0.4
-biopython 1.79
-graphein 1.4.0
-numpy 1.21.2
-pandas 1.3.4
-scikit-learn 1.0.1
-scipy 1.7.1
+python 3.8.12<br />
+pytorch 1.10.1<br />
+torch-geometric 2.0.4<br />
+biopython 1.79<br />
+graphein 1.4.0<br />
+numpy 1.21.2<br />
+pandas 1.3.4<br />
+scikit-learn 1.0.1<br />
+scipy 1.7.1<br />
 
 
 EpiCluster dataset 
