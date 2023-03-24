@@ -1,6 +1,11 @@
 This example is data preprocessing from Epitope3D external test set "epitope3d_dataset_45_Blind_Test.csv"
 =============================
 
+Version
+=============================
+PSAIA 1.0
+NCBI-BLAST 2.13
+
 Tutorials 
 =============================
 Prerequisits: csv file of PDB ID in Data_processing directory 
