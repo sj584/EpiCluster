@@ -33,10 +33,11 @@ https://github.com/3BioCompBio/BCellEpitope
 "Positive-unlabeled learning for the prediction of conformational B-cell epitopes"
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S18-S12#additional-information
 
+Data availability
 ======================= 
 preprocessed epitope3D train/test/blind set files are provided from the link below.
 https://drive.google.com/drive/folders/1erW8dht3YB6dAH6Z1YkbXHefgxfR_qjd?usp=share_link
-=======================
+
 
 Acknowledgements
 =======================
