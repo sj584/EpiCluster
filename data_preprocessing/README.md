@@ -36,3 +36,7 @@ After this process, you'll get example_psaia/*.tbl, example_pssm/*.pssm
 7. generate_label.py  (not necessary when you don't have epitope labels) --> example_label_dict.pkl
 
 8. generate_dataset.py --> example_pyg_surface_"RSA".pkl
+
+
+The files from 4-8 you can download them in the google drive link below:
+https://drive.google.com/drive/folders/1erW8dht3YB6dAH6Z1YkbXHefgxfR_qjd?usp=share_link
