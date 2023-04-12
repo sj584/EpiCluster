@@ -1,4 +1,4 @@
-# EpiCluster (Preprint)
+# EpiCluster (Preprint, Under Revision)
 EpiCluster: end-to-end deep learning model for B cell epitope prediction designed to capture epitope clustering property
 https://www.researchsquare.com/article/rs-2709196/v1
 
