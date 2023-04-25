@@ -39,8 +39,8 @@ Data availability
 preprocessed epitope3D train/test/blind set files are provided from the link below.
 https://drive.google.com/drive/folders/1erW8dht3YB6dAH6Z1YkbXHefgxfR_qjd?usp=share_link
 
-blind set is provided under name example_pyg_surface_0.15.pkl and you can try out the 
-process of preprocessing the data in data_preprocessing folder using blind set.
+blind set is provided under the name: "example_pyg_surface_0.15.pkl" 
+and you can try out the steps of preprocessing the data in "data_preprocessing" folder using blind set.
 
 
 Acknowledgements
